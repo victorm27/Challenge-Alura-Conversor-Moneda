@@ -19,14 +19,17 @@ El proyecto permite a los usuarios convertir una cantidad de dinero de una moned
    git clone https://github.com/victorm27/Challenge-Alura-Conversor-Moneda.git
 
 2. Navega a la carpeta del proyecto:
+   ```bash
    cd conversor-de-monedas
    
 3. Construye el proyecto con Maven:
+   ```bash
    mvn clean install
 
 4. Ejecuta la aplicación:
+   ```bash
    mvn spring-boot:run
-La aplicación se ejecutará en el puerto 8080 de forma predeterminada.
+### La aplicación se ejecutará en el puerto 8080 de forma predeterminada.
 
 ## Uso
 Una vez que la aplicación esté en ejecución, el menú interactivo te permitirá realizar las siguientes acciones:
