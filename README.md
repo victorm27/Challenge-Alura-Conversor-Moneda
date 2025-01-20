@@ -50,10 +50,15 @@ Bienvenido al conversor de monedas!
 Seleccione una opción:
 1. Convertir monedas
 2. Salir
+   
 Opción: 1
+
 Ingrese la moneda base (ejemplo: USD): USD
+
 Ingrese la moneda objetivo (ejemplo: ARS): COP
+
 Ingrese la cantidad a convertir: 100
+
 Resultado: 100 USD = 400000 COP
 
 ## Tecnologías utilizadas
