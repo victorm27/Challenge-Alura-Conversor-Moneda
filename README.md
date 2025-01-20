@@ -62,9 +62,14 @@ Ingrese la cantidad a convertir: 100
 Resultado: 100 USD = 400000 COP
 
 ## Tecnologías utilizadas
+
 Java 17
+
 Spring Boot
+
 Gson (para manejar el JSON de la respuesta de la API)
+
 HTTPURLConnection (para realizar solicitudes HTTP)
+
 
 
